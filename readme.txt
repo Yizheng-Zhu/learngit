@@ -4,3 +4,4 @@ test the remote repository
 creating a new branch is quick AND simple
 7.2 branch management strategy
 7.2 branch management strategy again
+I want to test the "git commit --amend"
